@@ -1,7 +1,14 @@
 # Compiled class file
 target/
 log/
+build/
+output/
+classes/
+class/
+dist/
 
 ### IntelliJ IDEA ###
 .idea
 *.iml
+*.iws
+*.ipr
